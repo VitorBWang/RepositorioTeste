@@ -2,7 +2,11 @@
 Criando repositorio teste para as aulas do curso em video, repositorio criado por vitor
 **Adicionei essa linha pelo site.**
 # [acesse meu github](https://github.com/VitorBWang)
-__**teste**__
+## tabela
+num | nome | nota
+---|---|---
+1 | vitor | 10,0
+### __**teste**__
 ~~teste~~
 # teste
 ## teste
