@@ -29,4 +29,6 @@ num | nome | nota
 - [] teste
 - [] teste
 - [x] tarefa completa
+
+não entendo direito o comando `document.getElementById()` da linguagem javascript
 ![paisagem teste ](https://github.com/user-attachments/assets/abac59d2-348e-42d1-a3ca-a48637fa7145)
