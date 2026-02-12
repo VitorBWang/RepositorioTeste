@@ -6,6 +6,9 @@ Criando repositorio teste para as aulas do curso em video, repositorio criado po
 num | nome | nota
 ---|---|---
 1 | vitor | 10,0
+2 | villy | 10,0
+3 | vimon | 10,0
+4 | veicon | 10,0
 ### __**teste**__
 ~~teste~~
 # teste
