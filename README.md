@@ -30,5 +30,14 @@ num | nome | nota
 - [] teste
 - [x] tarefa completa
 
-não entendo direito o comando `document.getElementById()` da linguagem javascript
+### não entendo direito o comando `document.getElementById()` da linguagem javascript
+
+## meu programa em phyton
+```
+num = int(input('digite um valor:')
+if num % 2 == 0:
+print(f'o valor{num} é par')
+else:
+print(f'o valor{num} é ímpar')
+```
 ![paisagem teste ](https://github.com/user-attachments/assets/abac59d2-348e-42d1-a3ca-a48637fa7145)
